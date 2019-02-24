@@ -1,2 +1,2 @@
 # Machine-Learning
-Machine learning demos
+Machine learning models
